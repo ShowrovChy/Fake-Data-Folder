@@ -3,7 +3,6 @@
       "id": 1012345,
       "title": "PATHOLOGY",
       "image": "https://i.ibb.co/N1fJ71r/pathology.png",
-      "detailImage": "https://i.ibb.co/bb484K2/Scientist-Working-in-The-Laboratory.jpg",
       "shortDescription": "Pathology is a medical specialty about the study and causes of disease and is integral to the diagnosis of every cancer.",
       "description": "Pathology is a medical specialty about the study and causes of disease and is integral to the diagnosis of every cancer. Pathologists can also examine changes in tissue, blood and other bodily fluid samples to gain an understanding of the potential for disease development, the cause or severity of disease and/or to monitor the progress of disease, effectiveness of treatment and your general health.At Peter Mac, the Pathology team uses blood and other tissue samples to help diagnose the tumour type and can also help determine a likely prognosis and inform clinicians about the most appropriate management for a cancer.Peter Mac’s Pathology team operates a 24-hour on-site service which provides biochemistry, hematology, anatomical pathology and diagnostic molecular pathology. If you have had bloods or specimens collected during any sort of procedure, as an inpatient or in our outpatient pathology clinic at Peter Mac, they will go straight to our on-site pathologists for analysis. "
     },
@@ -11,7 +10,6 @@
       "id": 1023456,
       "title": "RADIOLOGY",
       "image": "https://i.ibb.co/Dp4wY7c/radiology.png",
-      "detailImage": "https://i.ibb.co/p0cg4xt/Doctor-sees-virtual-images-of-the-patient-on-a-blue-background.jpg",
       "shortDescription": "Radiology is a medical specialty that uses different kinds of imaging to diagnose and treat disease.",
       "description": "Radiology is a medical specialty that uses different kinds of imaging to diagnose and treat disease.Peter Mac uses the following radiology services to help diagnose and treat a variety of cancer types:A CT scan is a medical imaging procedure that uses x-rays and digital computer technology to create 2D or 3D images of the body. Unlike other forms of medical imaging, CT can make an image of every type of body structure at once, including bone, blood vessels and soft tissue.CT scans can be used to diagnose cancer and plan surgeries or radiation therapy treatments. CT scans are also used to monitor response to cancer treatment. CT can be used as a visual aid for procedures, such as biopsies, that go inside the body, to ensure correct placement.At Peter Mac, we perform more than 45 CT examinations per day, consisting mostly of whole-body scans (chest, abdomen, pelvis, often including neck)."
     },
@@ -19,7 +17,6 @@
       "id": 1034567,
       "title": "CANCER SURGERY",
       "image": "https://i.ibb.co/1zWdySd/cancer.jpg",
-      "detailImage": "https://i.ibb.co/yNCkCDh/cancer00.webp",
       "shortDescription": "The Division of Cancer Surgery incorporates The Departments of Surgical Oncology, Anaesthesia and Pain Medicine, and The Perioperative Service.",
       "description": "The Division of Cancer Surgery incorporates The Departments of Surgical Oncology, Anaesthesia and Pain Medicine, and The Perioperative Service. It provides a comprehensive anaesthetic and surgical service for patients requiring surgery for cancer, excluding neurosurgery and thoracic surgery, which is provided by our VCCC partners at the Royal Melbourne Hospital.Care is delivered through an integrated multidisciplinary approach, utilizing purpose built, state of the art infrastructure. This involves new integrated operating theatres, including intra-operative radiotherapy, 2-D and 3-D laparoscopic equipment, and an established Di Vinci Robotic program.Research is one of the 3 pillars of the Division, along with Clinical Care, and Education and Training. Research includes clinical, translational, and basic science research, and is embedded with the clinical program.Education and Training is integral to the philosophy of the Division, and the Division undertakes training for resident, registrars, and fellows, across surgery in general and a range of surgical sub-specialties, along with anaesthesia and pain medicine."
     },
@@ -27,7 +24,6 @@
       "id": 1045678,
       "title": "DENTAL ONCOLOGY",
       "image": "https://i.ibb.co/z2rNvcf/dental.png",
-      "detailImage":"https://i.ibb.co/mBYgRvq/detal00.jpg",
       "shortDescription": "The Dental Oncology Service provides specialized services for patients undergoing treatment, primarily for head and neck, blood, and skin cancers.",
       "description": "The Dental Oncology Service provides specialized services for patients undergoing treatment, primarily for head and neck, blood, and skin cancers.People with these cancers may require the services of a dental oncologist to help manage and minimize discomfort, oral pain, and/or infections associated with treatment. Dental oncologists can also anticipate and prevent future dental concerns.DENTAL ONCOLOGY SERVICESDental oncology provides a number of services to patients, including:assessment of the mouth and teeth before radiation therapy and chemotherapy preparation of the mouth before radiation therapy diagnostic assessment of lesions inside the mouth preparation of complex oral devices to aid radiation therapy treatment management of the mouth and associated structures during and after radiation therapy and chemotherapy preparation of prostheses, which may be required as a result of surgery, radiation therapy or chemotherapy to the head and neck region."
     },
@@ -35,7 +31,6 @@
       "id": 1056789,
       "title": "MEDICAL ONCOLOGY",
       "image": "https://i.ibb.co/bmNZjcw/medi-Oncology.jpg",
-      "detailImage": "https://i.ibb.co/Fmq2v1V/medo-Oncology00.png",
       "shortDescription": "Medical oncologists use medications to care for and treat patients with all types of cancer.",
       "description": " Medical oncologists use medications to care for and treat patients with all types of cancer.These medications might be used to:Kill or control cancersSlow cancer growthTreat complications associated with cancer treatments Minimize the effects of cancer   Control pain and symptoms of cancer and its treatments  You may see a Medical Oncologist at Peter Mac for ChemotherapyHormone Therapy Immunotherapy There is no one-size-fits all treatment for cancer and often a patient will have a combination of treatments for the best outcome possible. Your treatment may also include radiation therapy, surgery or hematological treatments."
     },
@@ -43,7 +38,6 @@
       "id": 1067899,
       "title": "RADIATION THERAPY",
       "image": "https://i.ibb.co/d0qrJxD/radiation-Therapy.jpg",
-      "detailImage": "https://i.ibb.co/9vDQYfs/radiation00.jpg",
       "shortDescription": "Radiation therapy is a form of cancer treatment that uses radiation (x-rays).",
       "description": " Radiation therapy is a form of cancer treatment that uses radiation (x-rays).Radiation therapy may be given on its own, or with other forms of cancer treatment such as chemotherapy or surgery. Like having an x-ray picture, radiation therapy is painless.Radiation therapy is a localized treatment, which means that it generally only affects the part of your body that requires treatment. Most of the time radiation therapy needs to be delivered over a number of days or weeks. The majority of our patients come to Peter Mac for about half an hour each day, and are otherwise able to maintain their usual activities. The radiation therapy team works together to ensure the best approach to suit your individual needs."
     }
